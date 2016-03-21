@@ -1,4 +1,4 @@
-FROM frolvlad/alpine-glibc:3.2
+FROM alpine:3.3
 
 ENV VAULT_VERSION=0.4.0 \
     VAULT_SHA256=f56933cb7a445db89f8832016a862ca39b3e63dedb05709251e59d6bb40c56e8
